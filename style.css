@@ -1,13 +1,23 @@
-#header {
+div.relative.float-right {
+  padding: 1.5rem;
+  border-radius: 1.5rem;
+}
+
+#navbar {
   backdrop-filter: blur(3rem);
 }
 
-a.card > div {
-  border-radius: 3rem;
+a.card {
+  border-radius: 1.5rem;
 }
 
 :root {
   --primary: 83 22 163;
   --primary-light: 98 7 201;
   --primary-dark: 64 21 128;
+}
+
+#navigation-items, #navbar {
+  user-select: none;
+  -webkit-user-select: none;
 }
