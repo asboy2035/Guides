@@ -1,0 +1,7 @@
+#header {
+  backdrop-filter: blur(3rem);
+}
+
+a.card > div {
+  border-radius: 2rem;
+}
