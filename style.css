@@ -3,5 +3,11 @@
 }
 
 a.card > div {
-  border-radius: 2rem;
+  border-radius: 3rem;
+}
+
+:root {
+  --primary: 83 22 163;
+  --primary-light: 98 7 201;
+  --primary-dark: 64 21 128;
 }
