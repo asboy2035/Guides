@@ -5,7 +5,7 @@ div.relative.float-right {
 }
 
 /*Blurred navbar*/
-#navbar {
+#navbar, #navbar-transition-maple {
   backdrop-filter: blur(3rem);
 }
 #navbar-transition-maple {
