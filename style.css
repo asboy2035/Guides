@@ -8,6 +8,9 @@ div.relative.float-right {
 #navbar {
   backdrop-filter: blur(3rem);
 }
+#navbar-transition-maple {
+  padding-left: 1rem;
+}
 
 /*Card rounding*/
 a.card {
@@ -18,4 +21,8 @@ a.card {
 #navigation-items, #navbar {
   user-select: none;
   -webkit-user-select: none;
+}
+
+#content-area {
+  max-width: 55rem;
 }
