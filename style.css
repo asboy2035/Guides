@@ -1,3 +1,9 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "DT Getai Grotesk Display Black", monospace;
+  font-weight: 900;
+  font-style: normal;
+}
+
 /*Mobile nav*/
 div.relative.float-right {
   padding: 1.5rem;
@@ -25,4 +31,9 @@ a.card {
 
 #content-area {
   max-width: 55rem;
+}
+
+/*Watermark/Branding*/
+footer#footer > .flex.items-center.justify-between {
+  display: none;
 }

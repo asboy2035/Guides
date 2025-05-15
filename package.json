@@ -1,0 +1,18 @@
+{
+  "name": "asboy2035-guides",
+  "version": "1.0.0",
+  "description": "This page has different guides for my apps and other services.",
+  "scripts": {
+    "dev": "mintlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://asboy2035@github.com/asboy2035/Guides.git"
+  },
+  "keywords": ["docs", "documentation", "guides"],
+  "author": "asboy2035",
+  "bugs": {
+    "url": "https://github.com/asboy2035/Guides/issues"
+  },
+  "homepage": "https://guides.asboy2035.com"
+}
