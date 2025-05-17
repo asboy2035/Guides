@@ -4,6 +4,10 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
 }
 
+button {
+  transition: 0.2s ease;
+}
+
 /*Mobile nav*/
 div.relative.float-right {
   padding: 1.5rem;
@@ -36,4 +40,48 @@ a.card {
 /*Watermark/Branding*/
 footer#footer > .flex.items-center.justify-between {
   display: none;
+}
+
+/*highlights*/
+mark {
+  --tint: rgb(var(--primary-light));
+  position: relative;
+  border: var(--tint) 0.2rem solid;
+  box-shadow: inset 1px 1px 1rem var(--tint);
+  background: transparent;
+  color: var(--gray-400);
+  padding: 0.15rem 0.3rem;
+  border-radius: 0.65rem;
+}
+
+mark.okie {
+  --tint: green
+}
+
+/*Page switcher*/
+#pagination {
+  border-radius: 1.5rem;
+}
+#pagination > a > div {
+  border-radius: 1.25rem;
+}
+
+/*App buttons*/
+button.borderedButton {
+  border-radius: 0.75rem;
+  border: 0.1rem rgb(var(--gray-200)) solid;
+  background: hsla(0,0%,100%,.05);
+  padding: 0.3rem 0.7rem;
+}
+.dark button.borderedButton {
+  border-color: rgb(var(--gray-800));
+}
+button.borderedButton:hover {
+  border-color: rgb(var(--gray-300));
+}
+.dark button.borderedButton:hover {
+  border-color: rgb(var(--gray-700));
+}
+a:has(button.borderedButton) {
+  border-bottom: none;
 }
