@@ -16,21 +16,38 @@
           {
             "group": " ",
             "pages": [
-              "home"
+              "apps/home"
             ]
           },
           {
             "group": "Mac Apps",
             "pages": [
-              "mac-apps/stand",
-              "mac-apps/bigtime"
+              "apps/mac-apps/stand",
+              "apps/mac-apps/bigtime"
             ]
           },
           {
             "group": "Web Apps",
             "pages": [
-              "web-apps/tewfa",
-              "web-apps/astronomy"
+              "apps/web-apps/tewfa",
+              "apps/web-apps/astronomy"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Themes",
+        "groups": [
+          {
+            "group": " ",
+            "pages": [
+              "themes/home"
+            ]
+          },
+          {
+            "group": "Web",
+            "pages": [
+              "themes/web/discordThemes"
             ]
           }
         ]
