@@ -1,0 +1,13 @@
+mark {
+  --tint: rgb(var(--primary-light));
+  position: relative;
+  border: var(--tint) 0.2rem solid;
+  box-shadow: inset 1px 1px 1rem var(--tint);
+  background: transparent;
+  color: var(--gray-400);
+  padding: 0.15rem 0.3rem;
+  border-radius: 0.65rem;
+}
+
+mark.okie { --tint: green }
+mark.featured { --tint: #d7ae03 }

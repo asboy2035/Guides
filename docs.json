@@ -47,7 +47,8 @@
           {
             "group": "Web",
             "pages": [
-              "themes/web/discordThemes"
+              "themes/web/discordThemes",
+              "themes/web/fonts"
             ]
           }
         ]

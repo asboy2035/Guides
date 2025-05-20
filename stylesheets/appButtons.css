@@ -1,0 +1,18 @@
+button.borderedButton {
+  border-radius: 0.75rem;
+  border: 0.1rem rgb(var(--gray-200)) solid;
+  background: hsla(0,0%,100%,.05);
+  padding: 0.3rem 0.7rem;
+}
+.dark button.borderedButton {
+  border-color: rgb(var(--gray-800));
+}
+button.borderedButton:hover {
+  border-color: rgb(var(--gray-300));
+}
+.dark button.borderedButton:hover {
+  border-color: rgb(var(--gray-700));
+}
+a:has(button.borderedButton) {
+  border-bottom: none;
+}
