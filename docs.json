@@ -52,6 +52,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Misc",
+        "groups": [
+          {
+            "group": " ",
+            "pages": [
+              "misc/home"
+            ]
+          },
+          {
+            "group": "Web",
+            "pages": [
+              "misc/web/pwaInstall"
+            ]
+          }
+        ]
       }
     ],
     "global": {
