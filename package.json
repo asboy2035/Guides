@@ -2,6 +2,7 @@
   "name": "asboy2035-guides",
   "version": "1.0.0",
   "description": "This page has different guides for my apps and other services.",
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "mintlify dev"
   },
