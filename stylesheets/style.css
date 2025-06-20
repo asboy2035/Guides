@@ -16,14 +16,6 @@ div.relative.float-right {
   border-radius: 1.5rem;
 }
 
-/*Blurred navbar*/
-#navbar, #navbar-transition-maple {
-  backdrop-filter: blur(3rem);
-}
-#navbar-transition-maple {
-  padding-left: 1rem;
-}
-
 /*Card rounding*/
 a.card {
   border-radius: 1.5rem;
@@ -40,19 +32,6 @@ a.card {
   -webkit-user-select: none;
 }
 
-#content-area {
-  max-width: 80rem;
-  margin-right: 0;
-}
-
-#content-container > div {
-  justify-content: space-between;
-}
-
-div:has(#content-area) {
-  gap: 1.5rem;
-}
-
 /*Watermark/Branding*/
 footer#footer > .flex.items-center.justify-between {
   display: none;
@@ -67,12 +46,15 @@ footer#footer > .flex.items-center.justify-between {
 }
 
 /*Remove extra code block padding in cards*/
-a.card > div > div > div > div.codeblock-dark {
+a.card > div > div > div > div.code-block {
   margin-bottom: 0.5rem;
 }
 
-/*Remove max widths*/
-#navbar > div.max-w-8xl,
-main > div > div.max-w-8xl {
-  max-width: none;
+/*Update max widths*/
+#content-area {
+  max-width: 70rem;
+}
+
+.almond-layout {
+  padding: 0.5rem 0.5rem 0;
 }
