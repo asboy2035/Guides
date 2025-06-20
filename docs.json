@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "almond",
   "name": "Guides",
   "colors": {
     "primary": "#5d16a3",
@@ -8,10 +8,44 @@
     "dark": "#471580"
   },
   "favicon": "/favicon.png",
-  "navigation": {
-    "tabs": [
+  "appearance": {
+    "default": "system"
+  },
+
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude"
+    ]
+  },
+
+    "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+
+  "navbar": {
+    "links": [
       {
-        "tab": "Apps",
+        "label": "Support",
+        "href": "mailto:support@asboy2035.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Main Website",
+      "href": "https://asboy2035.com"
+    }
+  },
+
+  "navigation": {
+    "dropdowns": [
+      {
+        "dropdown": "Apps",
+        "icon": "grid-2",
+        "description": "My web/Apple apps.",
         "groups": [
           {
             "group": " ",
@@ -36,7 +70,9 @@
         ]
       },
       {
-        "tab": "Themes",
+        "dropdown": "Themes",
+        "icon": "palette",
+        "description": "Styles and themes.",
         "groups": [
           {
             "group": " ",
@@ -54,7 +90,9 @@
         ]
       },
       {
-        "tab": "Misc",
+        "dropdown": "Misc",
+        "icon": "shapes",
+        "description": "Other stuff :3",
         "groups": [
           {
             "group": " ",
@@ -70,34 +108,9 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "ash's Contact",
-          "href": "https://asboy2035.com/links",
-          "icon": "link"
-        }
-      ]
-    }
+    ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@asboy2035.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Main Website",
-      "href": "https://asboy2035.com"
-    }
-  },
+
   "footer": {
     "socials": {
       "website": "https://asboy2035.com",
