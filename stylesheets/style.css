@@ -15,6 +15,10 @@ div.relative.float-right {
   padding: 1.5rem;
   border-radius: 1.5rem;
 }
+/*fix dark background*/
+.dark [data-headlessui-state="open"] > div.inset-0 {
+  background: rgb(var(--gray-800)/.25)
+}
 
 /*Card rounding*/
 a.card {
@@ -24,6 +28,11 @@ a.card {
 /*Dropdowns*/
 [data-radix-menu-content] {
   border-radius: 1rem;
+}
+/*Show descriptions even in mobile*/
+[data-radix-menu-content] > a > div > p,
+#navigation-items > button > div > p {
+  display: flex !important;
 }
 
 /*Disable text selection where it shouldn't be*/

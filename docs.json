@@ -66,6 +66,12 @@
               "apps/web-apps/tewfa",
               "apps/web-apps/astronomy"
             ]
+          },
+          {
+            "group": "Other Versions",
+            "pages": [
+              "apps/other-versions/stand-26"
+            ]
           }
         ]
       },
@@ -104,6 +110,28 @@
             "group": "Web",
             "pages": [
               "misc/web/pwaInstall"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "GitHub",
+        "icon": "github",
+        "description": "READMEs and other projects.",
+        "groups": [
+          {
+            "group": " ",
+            "pages": [
+              "github/home"
+            ]
+          },
+          {
+            "group": "Other Apps",
+            "pages": [
+              "github/other-apps/sidesurf",
+              "github/other-apps/gitflow",
+              "github/other-apps/stickee",
+              "github/other-apps/fakeui"
             ]
           }
         ]

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update Stand pages" />
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update meta">
+      <change afterPath="$PROJECT_DIR$/github/home.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github/other-apps/fake-ui.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github/other-apps/gitflow.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github/other-apps/sidesurf.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github/other-apps/stickee.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand-26.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/other-versions/stand-26.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/appButtons.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/borderedButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +84,7 @@
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/other-versions" />
       <recent name="$PROJECT_DIR$/stylesheets" />
       <recent name="$PROJECT_DIR$/apps" />
     </key>
@@ -128,7 +141,9 @@
       <workItem from="1750077731188" duration="598000" />
       <workItem from="1750093076716" duration="31000" />
       <workItem from="1750236998656" duration="626000" />
-      <workItem from="1750410281812" duration="8309000" />
+      <workItem from="1750410281812" duration="9469000" />
+      <workItem from="1750421980075" duration="1000" />
+      <workItem from="1750500316804" duration="3725000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -186,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750417644815</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update meta">
+      <option name="closed" value="true" />
+      <created>1750420143458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750420143458</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +234,7 @@
     <MESSAGE value="updated theme, added dropdown options, add stand 26, improved code blocks/warnings/notes" />
     <MESSAGE value="styling updates" />
     <MESSAGE value="update Stand pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Stand pages" />
+    <MESSAGE value="update meta" />
+    <option name="LAST_COMMIT_MESSAGE" value="update meta" />
   </component>
 </project>

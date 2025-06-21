@@ -1,8 +1,13 @@
 button.borderedButton {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
   border-radius: 0.75rem;
   border: 0.1rem rgb(var(--gray-200)) solid;
   background: hsla(0,0%,100%,.05);
   padding: 0.3rem 0.7rem;
+  width: fit-content;
 }
 .dark button.borderedButton {
   border-color: rgb(var(--gray-800));
