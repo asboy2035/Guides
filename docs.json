@@ -117,7 +117,7 @@
       {
         "dropdown": "GitHub",
         "icon": "github",
-        "description": "READMEs and other projects.",
+        "description": "READMEs/other projects.",
         "groups": [
           {
             "group": " ",
