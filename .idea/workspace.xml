@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update meta">
-      <change afterPath="$PROJECT_DIR$/github/home.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/other-apps/fake-ui.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/other-apps/gitflow.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/other-apps/sidesurf.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/other-apps/stickee.mdx" afterDir="false" />
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add github section, improve styling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand-26.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/other-versions/stand-26.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/appButtons.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/borderedButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +134,11 @@
       <workItem from="1750236998656" duration="626000" />
       <workItem from="1750410281812" duration="9469000" />
       <workItem from="1750421980075" duration="1000" />
-      <workItem from="1750500316804" duration="3725000" />
+      <workItem from="1750500316804" duration="4039000" />
+      <workItem from="1750587733661" duration="1415000" />
+      <workItem from="1750591127170" duration="59000" />
+      <workItem from="1750591195803" duration="3152000" />
+      <workItem from="1750597188460" duration="1232000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -209,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750420143458</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add github section, improve styling">
+      <option name="closed" value="true" />
+      <created>1750534677006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750534677006</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +238,7 @@
     <MESSAGE value="styling updates" />
     <MESSAGE value="update Stand pages" />
     <MESSAGE value="update meta" />
-    <option name="LAST_COMMIT_MESSAGE" value="update meta" />
+    <MESSAGE value="add github section, improve styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="add github section, improve styling" />
   </component>
 </project>
