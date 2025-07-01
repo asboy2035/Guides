@@ -92,6 +92,12 @@
               "themes/web/discordThemes",
               "themes/web/fonts"
             ]
+          },
+          {
+            "group": "Apps",
+            "pages": [
+              "themes/apps/intellij"
+            ]
           }
         ]
       },

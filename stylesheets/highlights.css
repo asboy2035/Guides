@@ -9,5 +9,15 @@ mark {
   border-radius: 0.65rem;
 }
 
-mark.okie { --tint: green }
+/*Mark Types*/
+mark.okie { --tint: cyan }
 mark.featured { --tint: #d7ae03 }
+
+/*Different <mark> for searchbar*/
+div[data-headlessui-state] > div > div > div > div > div > mark, /*Titles*/
+div[data-headlessui-state] > div > div > div > div > div > div > div > div > mark, /*Paths*/
+div[data-headlessui-state] > div > div > div > p > mark /*Content Previews*/ {
+    padding: 0 0.25rem;
+    border-radius: 0.25rem !important;
+    border: none !important
+}
