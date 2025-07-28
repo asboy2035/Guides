@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="fix main website url">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/apps/intellij.mdx" afterDir="false" />
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add intellij themes">
+      <change afterPath="$PROJECT_DIR$/themes/apps/fleet.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/home.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/astronomy.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/highlights.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/highlights.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apps/intellij.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/intellij.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/home.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides/images",
+    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides/themes/apps",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,6 +79,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/apps" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
@@ -102,8 +104,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
       </set>
     </attachedChunks>
   </component>
@@ -167,7 +169,8 @@
       <workItem from="1750838855569" duration="97000" />
       <workItem from="1750838977279" duration="715000" />
       <workItem from="1750839718274" duration="3000" />
-      <workItem from="1751364064043" duration="1172000" />
+      <workItem from="1751364064043" duration="1322000" />
+      <workItem from="1753724028845" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -265,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750692397006</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add intellij themes">
+      <option name="closed" value="true" />
+      <created>1751365311377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751365311377</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +306,7 @@
     <MESSAGE value="update code blocks, add discord theme instructions" />
     <MESSAGE value="add homepage" />
     <MESSAGE value="fix main website url" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix main website url" />
+    <MESSAGE value="add intellij themes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add intellij themes" />
   </component>
 </project>
