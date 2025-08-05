@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add dewlog and tickity pages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-    </list>
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add icons to sections" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,6 +181,7 @@
       <workItem from="1754390800155" duration="47000" />
       <workItem from="1754391067157" duration="362000" />
       <workItem from="1754391432901" duration="70000" />
+      <workItem from="1754391506269" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -313,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754390749768</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add icons to sections">
+      <option name="closed" value="true" />
+      <created>1754391520118</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754391520118</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +353,7 @@
     <MESSAGE value="add new astronomy page and fleet themes page" />
     <MESSAGE value="update tewfa to authie" />
     <MESSAGE value="add dewlog and tickity pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dewlog and tickity pages" />
+    <MESSAGE value="add icons to sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="add icons to sections" />
   </component>
 </project>
