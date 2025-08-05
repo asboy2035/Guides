@@ -54,14 +54,8 @@
             ]
           },
           {
-            "group": "Mac Apps",
-            "pages": [
-              "apps/mac-apps/stand",
-              "apps/mac-apps/bigtime"
-            ]
-          },
-          {
             "group": "Web Apps",
+            "icon": "globe",
             "pages": [
               "apps/web-apps/authie",
               "apps/web-apps/astroPlus",
@@ -70,7 +64,16 @@
             ]
           },
           {
+            "group": "Mac Apps",
+            "icon": "laptop",
+            "pages": [
+              "apps/mac-apps/stand",
+              "apps/mac-apps/bigtime"
+            ]
+          },
+          {
             "group": "Other Versions",
+            "icon": "ellipsis",
             "pages": [
               "apps/other-versions/stand-26"
             ]
@@ -90,6 +93,7 @@
           },
           {
             "group": "Web",
+            "icon": "globe",
             "pages": [
               "themes/web/discordThemes",
               "themes/web/fonts"
@@ -97,6 +101,7 @@
           },
           {
             "group": "Apps",
+            "icon": "grid-2",
             "pages": [
               "themes/apps/intellij",
               "themes/apps/fleet"
@@ -117,6 +122,7 @@
           },
           {
             "group": "Web",
+            "icon": "globe",
             "pages": [
               "misc/web/pwaInstall"
             ]
@@ -136,6 +142,7 @@
           },
           {
             "group": "Other Apps",
+            "icon": "grid-2",
             "pages": [
               "github/other-apps/sidesurf",
               "github/other-apps/gitflow",

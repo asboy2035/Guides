@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update tewfa to authie">
-      <change afterPath="$PROJECT_DIR$/apps/web-apps/dewLog.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/web-apps/tickity.mdx" afterDir="false" />
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add dewlog and tickity pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/home.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +68,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;npm.dev.executor&quot;: &quot;Run&quot;,
     &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;io.github.pandier.intellijdiscordrp.settings.DiscordSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -183,6 +180,10 @@
       <workItem from="1754390503258" duration="33000" />
       <workItem from="1754390538440" duration="48000" />
       <workItem from="1754390589142" duration="144000" />
+      <workItem from="1754390735973" duration="62000" />
+      <workItem from="1754390800155" duration="47000" />
+      <workItem from="1754391067157" duration="362000" />
+      <workItem from="1754391432901" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -304,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754228804800</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add dewlog and tickity pages">
+      <option name="closed" value="true" />
+      <created>1754390749768</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754390749768</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +346,7 @@
     <MESSAGE value="add intellij themes" />
     <MESSAGE value="add new astronomy page and fleet themes page" />
     <MESSAGE value="update tewfa to authie" />
-    <option name="LAST_COMMIT_MESSAGE" value="update tewfa to authie" />
+    <MESSAGE value="add dewlog and tickity pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dewlog and tickity pages" />
   </component>
 </project>
