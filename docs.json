@@ -64,7 +64,9 @@
             "group": "Web Apps",
             "pages": [
               "apps/web-apps/authie",
-              "apps/web-apps/astroPlus"
+              "apps/web-apps/astroPlus",
+              "apps/web-apps/tickity",
+              "apps/web-apps/dewLog"
             ]
           },
           {
