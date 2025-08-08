@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add icons to sections" />
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add screenshots and go buttons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/web/fonts.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/fonts.mdx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,8 +99,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
@@ -182,6 +185,10 @@
       <workItem from="1754391067157" duration="362000" />
       <workItem from="1754391432901" duration="70000" />
       <workItem from="1754391506269" duration="24000" />
+      <workItem from="1754394366743" duration="110000" />
+      <workItem from="1754671814444" duration="1815000" />
+      <workItem from="1754681636957" duration="27000" />
+      <workItem from="1754684928083" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -319,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754391520118</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add screenshots and go buttons">
+      <option name="closed" value="true" />
+      <created>1754394468252</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1754394468252</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +369,7 @@
     <MESSAGE value="update tewfa to authie" />
     <MESSAGE value="add dewlog and tickity pages" />
     <MESSAGE value="add icons to sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icons to sections" />
+    <MESSAGE value="add screenshots and go buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="add screenshots and go buttons" />
   </component>
 </project>
