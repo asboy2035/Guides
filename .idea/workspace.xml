@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add screenshots and go buttons">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add pp fonts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/authie.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/authie.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/light.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/web/fonts.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/fonts.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +193,8 @@
       <workItem from="1754394366743" duration="110000" />
       <workItem from="1754671814444" duration="1815000" />
       <workItem from="1754681636957" duration="27000" />
-      <workItem from="1754684928083" duration="559000" />
+      <workItem from="1754684928083" duration="1220000" />
+      <workItem from="1754725402268" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -334,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754394468252</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add pp fonts">
+      <option name="closed" value="true" />
+      <created>1754685799853</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1754685799853</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,6 +384,7 @@
     <MESSAGE value="add dewlog and tickity pages" />
     <MESSAGE value="add icons to sections" />
     <MESSAGE value="add screenshots and go buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add screenshots and go buttons" />
+    <MESSAGE value="add pp fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pp fonts" />
   </component>
 </project>

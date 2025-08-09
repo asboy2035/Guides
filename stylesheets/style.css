@@ -1,7 +1,12 @@
-@import url("https://cdn.jsdelivr.net/gh/asboy2035/fonts@master/css/DTGetaiGroteskDisplayBlack.css");
+@import url('https://fonts.asboy2035.com/PPAgrandir.css');
+@import url('https://fonts.asboy2035.com/PPNeueMachina.css');
+
+p, span {
+  font-family: "PP Agrandir", sans-serif;
+}
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "DT Getai Grotesk Display Black", monospace;
+  font-family: "PP Neue Machina", monospace;
   font-weight: 900;
   font-style: normal;
 }
