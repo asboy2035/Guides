@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update to use new discord mods domain and images">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update transparency to be a link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/web/discordThemes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/discordThemes.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +191,8 @@
       <workItem from="1754684928083" duration="1220000" />
       <workItem from="1754725402268" duration="1062000" />
       <workItem from="1754985318017" duration="825000" />
-      <workItem from="1754987029393" duration="452000" />
+      <workItem from="1754987029393" duration="495000" />
+      <workItem from="1755068578630" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -361,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754986118836</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update transparency to be a link">
+      <option name="closed" value="true" />
+      <created>1754987524581</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1754987524581</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +409,7 @@
     <MESSAGE value="add pp fonts" />
     <MESSAGE value="update to use new fonts" />
     <MESSAGE value="update to use new discord mods domain and images" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to use new discord mods domain and images" />
+    <MESSAGE value="update transparency to be a link" />
+    <option name="LAST_COMMIT_MESSAGE" value="update transparency to be a link" />
   </component>
 </project>
