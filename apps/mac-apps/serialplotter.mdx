@@ -1,0 +1,53 @@
+---
+title: 'SerialPlotter'
+description: 'A beautiful serial plotter for mac.'
+icon: 'plug'
+tag: 'NEW'
+---
+
+![Screenshot](https://cdn.jsdelivr.net/gh/asboy2035/SerialPlotter@main/Screenshots/Main.png)
+**Designed for macOS 26.** Requires macOS 14.6 or later.
+
+## Usage
+How to use SerialPlotter:
+
+<Steps>
+  <Step title="Start with an Arduino Project">
+    Create an Arduino project.
+  </Step>
+
+  <Step title="Initialize the Serial">
+    ```cpp
+    void setup() {
+      Serial.begin()
+    }
+    ```
+  </Step>
+
+  <Step title="Print your Logs">
+    Use this format: `SomeKey: 6969 | AnotherKey: 4242`
+
+    Example:
+    ```cpp
+    Serial.print("Charging Rate: ");
+    Serial.print(currentChargingRate);
+    Serial.print(" | New Charge: ");
+    Serial.print(newCharge);
+    Serial.print(" | Battery: ");
+    Serial.print(batteryChargePercentage);
+    Serial.print(" | Charging: ");
+    Serial.print(charging);
+    Serial.print(" | Light: ");
+    Serial.print(String(lightOn ? "On" : "Off"));
+    Serial.print(" | Dimmer: ");
+    Serial.println(String(dimmerPercentage));
+    ```
+  </Step>
+
+  <Step title="Run your Code and SerialPlotter">
+    - Connect your Arduino to your computer
+    - Upload the code to it
+    - Open SerialPlotter and click ▶︎ on the top right
+    - Enjoy!
+  </Step>
+</Steps>

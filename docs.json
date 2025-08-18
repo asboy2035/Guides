@@ -68,7 +68,9 @@
             "icon": "laptop",
             "pages": [
               "apps/mac-apps/stand",
-              "apps/mac-apps/bigtime"
+              "apps/mac-apps/bigtime",
+              "apps/mac-apps/serialplotter",
+              "apps/mac-apps/stickee"
             ]
           },
           {
