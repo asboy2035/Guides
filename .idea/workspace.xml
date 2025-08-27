@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="new font for code blocks">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/mac-apps/stickee.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/home.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add serial plotter, stickee" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +190,7 @@
       <workItem from="1754985318017" duration="825000" />
       <workItem from="1754987029393" duration="495000" />
       <workItem from="1755068578630" duration="359000" />
-      <workItem from="1755505121327" duration="1500000" />
+      <workItem from="1755505121327" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -385,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755068924746</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add serial plotter, stickee">
+      <option name="closed" value="true" />
+      <created>1755506670360</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1755506670360</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +425,7 @@
     <MESSAGE value="update to use new discord mods domain and images" />
     <MESSAGE value="update transparency to be a link" />
     <MESSAGE value="new font for code blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="new font for code blocks" />
+    <MESSAGE value="add serial plotter, stickee" />
+    <option name="LAST_COMMIT_MESSAGE" value="add serial plotter, stickee" />
   </component>
 </project>
