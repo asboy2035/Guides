@@ -75,6 +75,13 @@
             ]
           },
           {
+            "group": "iPhone Apps",
+            "icon": "mobile",
+            "pages": [
+              "apps/iphone-apps/serialbridge"
+            ]
+          },
+          {
             "group": "Other Versions",
             "icon": "ellipsis",
             "pages": [
