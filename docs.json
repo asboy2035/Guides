@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "Guides",
   "colors": {
-    "primary": "#5d16a3",
-    "light": "#8032e6",
-    "dark": "#471580"
+    "primary": "#491fb1",
+    "light": "#7056e5",
+    "dark": "#3b2489"
   },
   "favicon": "/favicon.png",
   "appearance": {
@@ -70,6 +70,7 @@
               "apps/mac-apps/stand",
               "apps/mac-apps/serialplotter",
               "apps/mac-apps/shimeTomo",
+              "apps/mac-apps/sideeye",
               "apps/mac-apps/bigtime",
               "apps/mac-apps/stickee"
             ]

@@ -1,0 +1,36 @@
+---
+title: 'SideEye'
+description: 'PiP for Monitors'
+icon: 'eye'
+tag: 'NEW'
+---
+
+<Danger>When changing displays, the app must be restarted.</Danger>
+
+<Frame caption="SideEye">
+  ![SideEye](https://github.com/asboy2035/SideEye/raw/main/Images/SideEye-BigPic.jpg)
+</Frame>
+
+SideEye is a macOS SwiftUI app that lets you keep a sneaky Picture-in-Picture (PiP) preview of your connected monitors.
+Perfect for presenters, streamers, or anyone who wants to see what’s being shown on an outward-facing screen without constantly turning around.
+
+## Features
+- Monitor Picker – Choose which connected display you want to mirror.
+- Floating Preview Window – Opens a PiP-style window you can resize and keep always-on-top.
+- FPS Control – Switch between 30 FPS (smooth) and 10 FPS (power-saving).
+- SwiftUI + ScreenCaptureKit – Built for macOS 14+, using Apple’s modern capture APIs.
+
+## How It Works
+1. Launch SideEye.
+2. In the main window, use the drop-down menu to select the monitor you want to mirror.
+3. Pick your frame rate:
+    - 30 FPS – smoother motion, higher CPU/GPU use
+    - 10 FPS – lower motion, more battery friendly
+4. Click “Open Floating Preview”.
+5. A resizable, floating PiP window will appear showing the chosen monitor.
+
+You can drag, resize, and keep the preview on top of all windows—handy for presentations or live demos.
+
+## Requirements
+- macOS 14 (Sonoma) or newer
+- Screen Recording permission for SideEye enabled in System Settings → Privacy & Security → Screen Recording
