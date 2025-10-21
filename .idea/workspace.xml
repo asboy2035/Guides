@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add sideeye, update coloring">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update links, add new discord theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/apps/fleet.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/fleet.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/fonts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/web/discordThemes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/discordThemes.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/ash/IdeaProjects/Guides",
@@ -108,8 +109,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-256f9dae541f-JavaScript-PS-253.25908.29" />
-        <option value="bundled-php-predefined-a98d8de5180a-f695c007031b-com.jetbrains.php.sharedIndexes-PS-253.25908.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-75c7c973e13d-JavaScript-PS-253.27642.37" />
+        <option value="bundled-php-predefined-a98d8de5180a-865587d0cfff-com.jetbrains.php.sharedIndexes-PS-253.27642.37" />
       </set>
     </attachedChunks>
   </component>
@@ -209,7 +210,9 @@
       <workItem from="1757432961931" duration="2684000" />
       <workItem from="1757598451572" duration="34000" />
       <workItem from="1757598504915" duration="19000" />
-      <workItem from="1760893212043" duration="497000" />
+      <workItem from="1760893212043" duration="938000" />
+      <workItem from="1761046659805" duration="26000" />
+      <workItem from="1761059457805" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -435,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757435784279</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update links, add new discord theme">
+      <option name="closed" value="true" />
+      <created>1760893937290</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1760893937290</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new fonts, update fonts view" />
     <MESSAGE value="updated theme, added dropdown options, add stand 26, improved code blocks/warnings/notes" />
     <MESSAGE value="styling updates" />
     <MESSAGE value="update Stand pages" />
@@ -478,6 +488,7 @@
     <MESSAGE value="add しめとも" />
     <MESSAGE value="add serialbridge" />
     <MESSAGE value="add sideeye, update coloring" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sideeye, update coloring" />
+    <MESSAGE value="update links, add new discord theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update links, add new discord theme" />
   </component>
 </project>
