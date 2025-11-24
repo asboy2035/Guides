@@ -30,13 +30,13 @@
     "links": [
       {
         "label": "Contact",
-        "href": "mailto:ash@asboy2035.com"
+        "href": "mailto:ash@a35.dev"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Main Website",
-      "href": "https://asboy2035.com"
+      "href": "https://a35.dev"
     }
   },
 
@@ -168,7 +168,7 @@
 
   "footer": {
     "socials": {
-      "website": "https://asboy2035.com",
+      "website": "https://a35.dev",
       "github": "https://github.com/asboy2035"
     }
   }
