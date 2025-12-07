@@ -16,8 +16,12 @@
     "options": [
       "copy",
       "view",
+      "mcp",
       "chatgpt",
-      "claude"
+      "claude", 
+      "perplexity",
+      "cursor", 
+      "vscode"
     ]
   },
 
