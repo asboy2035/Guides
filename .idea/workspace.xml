@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="updated discord themes page">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update website and email links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/light.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +37,12 @@
     &quot;assignee&quot;: &quot;asboy2035&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://asboy2035@github.com/asboy2035/Guides.git&quot;,
-    &quot;accountId&quot;: &quot;3a099e4d-a960-4419-accc-5f28f60b6a13&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://asboy2035@github.com/asboy2035/Guides.git",
+    "accountId": "270a3d52-a252-4e76-b4b4-fb7a0cc93108"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="vEfUA9ZC" />
   </component>
@@ -60,6 +64,7 @@
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -81,6 +86,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/themes/apps" />
       <recent name="$PROJECT_DIR$/fonts" />
@@ -98,16 +104,20 @@
       <scripts>
         <script value="dev" />
       </scripts>
-      <node-interpreter value="project" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.19.5/bin/node" />
+      <package-manager value="npm" />
       <envs />
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
       <method v="2" />
     </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PS-253.28086.57" />
-        <option value="bundled-php-predefined-a98d8de5180a-09080813851e-com.jetbrains.php.sharedIndexes-PS-253.28086.57" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.29346.44" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.29346.44" />
       </set>
     </attachedChunks>
   </component>
@@ -212,6 +222,8 @@
       <workItem from="1761059457805" duration="1423000" />
       <workItem from="1762702516287" duration="2851000" />
       <workItem from="1762774026316" duration="3000" />
+      <workItem from="1764010034208" duration="73000" />
+      <workItem from="1765890377034" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -453,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761060883264</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update website and email links">
+      <option name="closed" value="true" />
+      <created>1764010102619</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1764010102619</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="styling updates" />
     <MESSAGE value="update Stand pages" />
     <MESSAGE value="update meta" />
     <MESSAGE value="add github section, improve styling" />
@@ -496,6 +515,7 @@
     <MESSAGE value="add sideeye, update coloring" />
     <MESSAGE value="update links, add new discord theme" />
     <MESSAGE value="updated discord themes page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated discord themes page" />
+    <MESSAGE value="update website and email links" />
+    <option name="LAST_COMMIT_MESSAGE" value="update website and email links" />
   </component>
 </project>
